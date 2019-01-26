@@ -52,7 +52,6 @@ module.exports = class MenuController {
         this.main();
       });
     });
-    this.main();
   }
 
   exit(){
